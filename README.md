@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjeevkajode" alt="chiranjeevkajode" /></a> </p>
 
-- 🌱 I’m currently learning **full stack**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chiranjeevkajode](https://github.com/chiranjeevkajode)
 
