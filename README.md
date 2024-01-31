@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chiranjeevkajode16@gmail.com**
 
-- ⚡ Fun fact **I think I'm fun loving Guy**
+- ⚡ Fun fact **I think I'm fun loving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
