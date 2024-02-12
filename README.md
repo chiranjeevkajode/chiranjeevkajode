@@ -17,25 +17,6 @@
 
 - ⚡ Fun fact **I think I'm fun loving**
 
-## A Day in the Life of a Developer 💻
-
-Imagine a typical day in the life of a developer. Here's a snapshot:
-
-**9:00 AM** - Arrive at my workspace, energized for the day ahead.
-
-**9:15 AM** - Settle into my ergonomic chair at the sleek wooden desk in my home office.
-
-**9:30 AM** - Fire up my trusty desktop computer, greeted by the familiar hum of its fans.
-
-**9:45 AM** - Dive into my current coding project, greeted by the glow of my multi-monitor setup.
-
-**12:30 PM** - Take a break for lunch, recharging both body and mind.
-
-**1:30 PM** - Back at the desk, fueled by caffeine and determination.
-
-**3:00 PM** - Collaborate with team members via video conferencing, discussing project updates and brainstorming solutions.
-
-**5:30 PM** - Wrap up the day's work, proud of the progress made and excited for tomorrow's challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
